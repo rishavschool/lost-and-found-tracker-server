@@ -9,6 +9,8 @@
   "dependencies": {
     "@hono/node-server": "^1.19.2",
     "bcrypt": "^6.0.0",
+    "firebase": "^12.3.0",
+    "firebase-admin": "^13.5.0",
     "hono": "^4.9.7"
   },
   "devDependencies": {
